@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/coffeespot/src/main/resources/db/migration/V1__init_coffee_shop.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/coffeespot/src/main/resources/db/migration/V2__add_ingredients.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/coffeespot/src/main/resources/db/migration/V3__create_drink_recipes.sql" dialect="H2" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+CREATE TABLE ingredients (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    unit VARCHAR(50) NOT NULL,
+    stock_quantity DECIMAL(10, 2) NOT NULL
+);
